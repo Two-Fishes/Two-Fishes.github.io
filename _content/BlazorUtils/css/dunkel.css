@@ -1,0 +1,76 @@
+﻿body, main {
+  background-color: #252525;
+  color: white;
+}
+
+
+table, thead, tbody {
+  color: white;
+  background-color: #102040
+}
+
+th, tr, td {
+  padding: 0px 2px 0px 4px;
+  border: thin solid #808080
+}
+
+label, h1, h2, h3 {
+  color: white;
+}
+
+input {
+  background-color: #252525;
+  color: #e0e0e0;
+  cursor: grab;
+  border: 1px solid #e0e0e0;
+}
+
+  input:hover {
+    border-color: cornflowerblue;
+    color: cornflowerblue;
+  }
+
+  input:focus {
+    box-shadow:none;
+    border-radius:0px;
+    background-color:#004070
+  }
+
+
+  input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(100%);
+  }
+
+  input[type="month"]::-webkit-calendar-picker-indicator {
+    filter: invert(100%);
+  }
+
+
+  input::-ms-clear {
+    filter: invert(100%);
+  }
+
+
+button {
+  background-color: #303030;
+  color: #e0e0e0;
+  font-size: 20px;
+  padding: 1px 6px 1px 6px;
+  cursor: grab;
+  border: 1px solid #808080;
+}
+
+  button:hover {
+    border-color: cornflowerblue;
+    color: cornflowerblue;
+  }
+
+
+
+a {
+  color: #00ffff;
+}
+
+  a:hover {
+    color: white;
+  }
