@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "BlazorUtils.dll": "sha256-sjxK90edvoJ4n0kSsRHOVDTm7yhTvSYHzRLJJUABrWQ=",
-      "CascadiaApp.dll": "sha256-1CUna6ygePpno9BaFz+02oDqk3EQUhz9hIy90Q2aCww=",
+      "CascadiaApp.dll": "sha256-SnyUMs4+x6aNbqNaOnwDh29G4xN4Cg8q4vmVAgsAUPg=",
       "CascadiaLib.dll": "sha256-kcKdKD3XmnFfGtrRo8P30ZIBCNvarAjvkHsP1J2kkZQ=",
       "Microsoft.AspNetCore.Components.dll": "sha256-BkDdCzT+uEDfyV5bZeSs6H\/i668f7t49mLBlDKSXYsc=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-+B+Dw0exFpLLKnjfJM4i3\/oCk0S9vAPAWW4+uwMs5h8=",
